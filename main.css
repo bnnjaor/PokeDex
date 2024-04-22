@@ -130,9 +130,9 @@ main{
     left: 50%;
     transform: translateX(-50%);
     font-size: 6rem;
-    color: var(--clr-gray);
     font-weight: 800;
     z-index: -1;
+    color: var(--clr-gray);
 }
 
 .pokemon-image{
@@ -214,6 +214,7 @@ main{
 .normal {
     background-color: var(--type-normal);
     color: var(--clr-black);
+    
 }
 
 .fire {
